@@ -24,6 +24,8 @@
             <artifactId>spring-boot-starter-actuator</artifactId>
         </dependency>
         <!-- end::actuator[] -->
+        <!-- end::actuator[] -->
+        
         <!-- tag::tests[] -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
